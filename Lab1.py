@@ -73,3 +73,4 @@ else:
   X2=(-B+csqrt(Delta))/(2*A)
   print(f'x1={X1:.3f},x2={X2:.3f}')
   
+ 
