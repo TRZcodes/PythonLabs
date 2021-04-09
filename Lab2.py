@@ -135,7 +135,7 @@ print(list1)
 
 list1.remove(7) #usuwa pierwsze wystąpienie wartości 3
 print(list1)
-
+ 
 del list1[4]
 print(list1)
 
